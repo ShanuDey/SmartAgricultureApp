@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "561023838877",
+    "firebase_url": "https://testfirebaseweb-f2a72.firebaseio.com",
+    "project_id": "testfirebaseweb-f2a72",
+    "storage_bucket": "testfirebaseweb-f2a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561023838877:android:b5efdfa63ed0209b",
+        "android_client_info": {
+          "package_name": "com.example.user.myfinalstexappbuild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561023838877-1phikcr3h808fmherljsa6ltdokfc7q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myfinalstexappbuild",
+            "certificate_hash": "dbfff6fcd47366fe48ebd8ea55d7ecba6efc2f4e"
+          }
+        },
+        {
+          "client_id": "561023838877-vdsus2t1atumahif8ippfbvnqcp24kjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHa6sOO8Bc3Z3dtBnhSL2AuIjD2G5GEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561023838877-vdsus2t1atumahif8ippfbvnqcp24kjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561023838877:android:159cac9faf7d66a0",
+        "android_client_info": {
+          "package_name": "com.example.user.smartagriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561023838877-tucd59dbees6vo9pah1kjh8047gr4u4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.smartagriculture",
+            "certificate_hash": "9527f462baaf9a5a21ae43e9c81c2cd71409fbb1"
+          }
+        },
+        {
+          "client_id": "561023838877-vdsus2t1atumahif8ippfbvnqcp24kjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHa6sOO8Bc3Z3dtBnhSL2AuIjD2G5GEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561023838877-vdsus2t1atumahif8ippfbvnqcp24kjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561023838877:android:9a887c39d145e505",
+        "android_client_info": {
+          "package_name": "com.example.user.smartagricultureappwithlocalhostedpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561023838877-1kj2vq50gtemhcvv6doa2ngb41ocujfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.smartagricultureappwithlocalhostedpage",
+            "certificate_hash": "9527f462baaf9a5a21ae43e9c81c2cd71409fbb1"
+          }
+        },
+        {
+          "client_id": "561023838877-vdsus2t1atumahif8ippfbvnqcp24kjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRHa6sOO8Bc3Z3dtBnhSL2AuIjD2G5GEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561023838877-vdsus2t1atumahif8ippfbvnqcp24kjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
